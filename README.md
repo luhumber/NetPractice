@@ -11,4 +11,5 @@ Each exercise is available in an interactive training interface accessible throu
 
 ## How to Use
 Open the index.html file on chrome and follow the instructions.
-![NetPractice Screen](https://github.com/luhumber/Images/blob/main/NetPractice/NetPracticeScreen.png)
+
+![NetPractice Screen](https://github.com/luhumber/Images/blob/main/NetPractice/Net_screen.png)
