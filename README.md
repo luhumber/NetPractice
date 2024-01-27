@@ -10,6 +10,6 @@ The project includes 10 exercises that cover various aspects of networking. Each
 Each exercise is available in an interactive training interface accessible through your web browser. Follow the instructions provided in each exercise to configure the network according to the given requirements.
 
 ## How to Use
-Open the index.html file on chrome and follow the instructions.
+Open the index.html file on chrome and follow instructions.
 
 ![NetPractice Screen](https://github.com/luhumber/Images/blob/main/NetPractice/Net_screen.png)
